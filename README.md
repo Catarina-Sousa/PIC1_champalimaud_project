@@ -6,4 +6,4 @@ check_coor_and_nan.ipynb : tracking validation code.
 
 finalcode.ipynb : main code of the project.
 
-videoteste3.avi : example of tracked video using check_coor_and_nan.ipynb.
+videoteste3.avi : example of a tracked video using check_coor_and_nan.ipynb.
